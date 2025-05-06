@@ -6,5 +6,5 @@ When using these algorithms, they will ask for input values for the inclination 
 
 ## Accessing the Algorithms
 These links allow for you to download the notebooks.
-[For the Skew Normal Model](.Algorithm_using_Skew_Normal.ipynb)
+[For the Skew Normal Model](.Algorithm_using_Skew_Normal.ipynb) \
 [For the Bivariate Skew Normal Model](.Algorithm_using_Bivariate_Skew_Normal.ipynb)

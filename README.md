@@ -5,6 +5,6 @@ This repository contains two notebooks created using python that are capable of 
 When using these algorithms, they will ask for input values for the inclination angle of maximum likelihood and signal-to-noise ratio of your detection, as well as a normalisation factor (as specified in the code, this value is to be inputted as 0.5 unless known or attempting to replicate a known distribution). The bivariate skew normal model asks for an additional input value, being the luminosity distance of maximum likelihood. The algorithms can also be used to see how variations in these values affect the form of the distribution (this depends on assumptions made when constructing the algorithm, stated in the report).
 
 ## Accessing the Algorithms
-These links allow for you to download the notebooks.
+These links allow for you to download the notebooks. \
 [For the Skew Normal Model](.Algorithm_using_Skew_Normal.ipynb) \
 [For the Bivariate Skew Normal Model](.Algorithm_using_Bivariate_Skew_Normal.ipynb)
